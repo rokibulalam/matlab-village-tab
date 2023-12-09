@@ -1,0 +1,23 @@
+!table
+!version 900
+!charset WindowsCyrillic
+
+Definition Table
+  Type NATIVE Charset "WindowsCyrillic"
+  Fields 1
+    ID Integer ;
+begin_metadata
+"\SNAPTHIN\EnableSnap" = "FALSE"
+"\SNAPTHIN\Node" = "0"
+"\SNAPTHIN\Vec" = "0"
+"\SNAPTHIN\TolUnit" = "7"
+"\SNAPTHIN\EnableThin" = "TRUE"
+"\SNAPTHIN\Bend" = "1"
+"\SNAPTHIN\Dist" = "0"
+"\SNAPTHIN\ThinUnit" = "7"
+"\SNAPTHIN\EnableArea" = "FALSE"
+"\SNAPTHIN\Area" = "0"
+"\SNAPTHIN\AreaUnit" = "15"
+"\IsReadOnly" = "FALSE"
+"\MapInfo\TableID" = "09b3b7e7-90f6-4d59-a5af-20a007da81c3"
+end_metadata
